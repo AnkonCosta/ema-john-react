@@ -1,5 +1,16 @@
-.cart{
+.cart {
     position: sticky;
     top: 0;
     padding: 30px 20px;
+}
+
+.cart button {
+    background-color: #FFA500;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.cart button:hover {
+    background-color: #FFA500;
 }
